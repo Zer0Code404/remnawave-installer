@@ -153,6 +153,7 @@ REMNAWAVE_API_TOKEN=Токен_из_Remnawave
 # Готово! Панель успешно установлена
 
 Ваша панель доступа по домену - panel.yourdomain.ru
+
 Ваш сайт с подписками доступен по домену - sub.yourdomain.ru
 
 
